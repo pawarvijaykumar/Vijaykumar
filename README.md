@@ -6,16 +6,14 @@
 
 💻 Passionate about Backend Development and DSA
 
-🌱 Currently learning:
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- JavaScript
-- C
-- C++
-- Python
-- DSA with C++
+🌱 Currently Learning
+
+- Backend Development (Node.js & Express.js)
+- MongoDB & Mongoose
+- REST APIs
+- JWT Authentication
+- Data Structures & Algorithms (C++)
+
 
 
 
@@ -45,9 +43,9 @@
 
 ## 🚀 Featured Projects
 
-- 📌 Instagram Clone Backend (In Progress)
-- 📌 Student Management System API (Coming Soon)
-- 📌 Authentication API using JWT (Coming Soon)
+- 📌 [Instagram Clone Backend](https://github.com/pawarvijaykumar/instagram-backend)
+- 📌 [Student Management System API](https://github.com/pawarvijaykumar/student-management-api)
+- 📌 [Authentication API using JWT](https://github.com/pawarvijaykumar/auth-api)
   
 ## 📫 Connect with Me
 
