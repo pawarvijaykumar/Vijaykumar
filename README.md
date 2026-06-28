@@ -43,8 +43,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarvijaykumar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-📫 Reach me:
-- Email: pawarvijaykumar821@gmail.com
+## 🚀 Featured Projects
+
+- 📌 Instagram Clone Backend (In Progress)
+- 📌 Student Management System API (Coming Soon)
+- 📌 Authentication API using JWT (Coming Soon)
+  
+## 📫 Connect with Me
+
+- 📧 Email: pawarvijaykumar821@gmail.com
+- 💻 GitHub: https://github.com/pawarvijaykumar
 
 ⚡ Fun Fact:
 I enjoy building real-world projects and learning new technologies every day.
