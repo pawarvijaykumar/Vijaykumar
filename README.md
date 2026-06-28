@@ -6,13 +6,15 @@
 
 💻 Passionate about Backend Development and DSA
 
+```md
 🌱 Currently Learning
 
-- Backend Development (Node.js & Express.js)
+- Backend Development with Node.js & Express.js
 - MongoDB & Mongoose
-- REST APIs
+- REST API Development
 - JWT Authentication
 - Data Structures & Algorithms (C++)
+```
 
 
 
