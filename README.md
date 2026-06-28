@@ -4,9 +4,8 @@
 
 🎓 2nd Year Electronics & Computer Engineering Student
 
-💻 Passionate about Backend Development and DSA
+💻 Passionate about Backend Development, REST APIs, and Data Structures & Algorithms.
 
-```md
 🌱 Currently Learning
 
 - Backend Development with Node.js & Express.js
@@ -14,7 +13,6 @@
 - REST API Development
 - JWT Authentication
 - Data Structures & Algorithms (C++)
-```
 
 
 
@@ -52,6 +50,8 @@
 ## 📫 Connect with Me
 
 - 📧 Email: pawarvijaykumar821@gmail.com
+
+- 📍 India
 - 💻 GitHub: https://github.com/pawarvijaykumar
 
 ⚡ Fun Fact:
