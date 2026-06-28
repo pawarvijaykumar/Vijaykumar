@@ -15,8 +15,6 @@
 - Data Structures & Algorithms (C++)
 
 
-
-
 ## 💻 Tech Stack
 
 <p align="left">
@@ -51,8 +49,9 @@
 
 - 📧 Email: pawarvijaykumar821@gmail.com
 
-- 📍 India
 - 💻 GitHub: https://github.com/pawarvijaykumar
 
+ 📍 India
+ 
 ⚡ Fun Fact:
 I enjoy building real-world projects and learning new technologies every day.
